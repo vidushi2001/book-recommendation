@@ -13,5 +13,5 @@ In this Recommendation system, a weighted score has been calculated according to
                m = minimum number of votes required for your consideration.
 # Visual for end result
 
-              ![Unknown](https://user-images.githubusercontent.com/73382771/98897762-235d9600-24d2-11eb-8035-536021f46917.png)
+![Unknown](https://user-images.githubusercontent.com/73382771/98897762-235d9600-24d2-11eb-8035-536021f46917.png)
  
